@@ -38,3 +38,5 @@ You can use new configuration with below commands from [set-vars-on-heroku](http
 heroku config:set REACT_APP_API_BASE_PATH=new base url
 git commit --allow-empty -m "Set REACT_APP_API_BASE_PATH config var"
 git push heroku HEAD:master```
+
+stage
